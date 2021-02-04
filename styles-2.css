@@ -1,0 +1,34 @@
+.box-1 {
+  width: 0px;
+  padding: 100px;
+  background-color: #f3ff00;
+  border: #ff0006 solid 10px;
+}
+
+.box-2 {
+  width: 0px;
+
+  padding: 100px;
+  box-sizing: 50px;
+
+  background-color: #f3ff00;
+  border: #ff3249 solid 10px;
+  border-left: 220px solid #ff0006;
+}
+
+.box-3 {
+  width: 0px;
+  padding: 100px;
+  background-color: #f3ff00;
+
+  border: #ff3249 solid 10px;
+  border-left: 430px solid #ff0006;
+}
+
+.box-4 {
+  width: 0px;
+  padding: 100px;
+  background-color: #f3ff00;
+  border: #ff3249 solid 10px;
+  border-left: 640px solid #ff0006;
+}
