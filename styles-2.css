@@ -2,27 +2,38 @@
   width: 0px;
   padding: 100px;
   background-color: #f3ff00;
-  border: #ff0006 solid 10px;
+  border: #ff3249 solid 10px;
 }
 
+#box-2 {
+  width: 80px;
+  padding: 0px;
+  border-left: 210px solid #ff0006;
+}
 .box-2 {
   width: 0px;
-
   padding: 100px;
   box-sizing: 50px;
-
   background-color: #f3ff00;
   border: #ff3249 solid 10px;
-  border-left: 220px solid #ff0006;
 }
 
+#box-3 {
+  width: 80px;
+  padding: 0;
+  border-left: 430px solid #ff0006;
+}
 .box-3 {
   width: 0px;
   padding: 100px;
   background-color: #f3ff00;
-
   border: #ff3249 solid 10px;
-  border-left: 430px solid #ff0006;
+}
+
+#box-4 {
+  width: 80px;
+  padding: 0px;
+  border-left: 640px solid #ff0006;
 }
 
 .box-4 {
@@ -30,5 +41,4 @@
   padding: 100px;
   background-color: #f3ff00;
   border: #ff3249 solid 10px;
-  border-left: 640px solid #ff0006;
 }
